@@ -1,6 +1,6 @@
 # Picnic Hackathon 2019
 
-<img align="right" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/748/456/datas/full_width.png" alt="logo.png" height="400">
+<img align="center" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/748/456/datas/full_width.png" alt="logo.png" height="400">
  
 
 Image classification (https://picnic.devpost.com)

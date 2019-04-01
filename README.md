@@ -1,5 +1,8 @@
 # Picnic Hackathon 2019
+
+<img align="right" src="https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/challenge_photos/000/748/456/datas/full_width.png" alt="logo.png" height="400">
  
+
 Image classification (https://picnic.devpost.com)
 
 ## Setup
@@ -26,5 +29,6 @@ python cnn/model_generator.py
 # to classify
 python cnn/predict.py
 ```
+
 
 Download data set from https://drive.google.com/open?id=1XSoOCPpndRCUIzz2LyRH0y01q35J7mgC
